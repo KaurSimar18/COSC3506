@@ -46,8 +46,8 @@ Built as a university project
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/your-name/charity-donation-system.git
-cd charity-donation-system
+git clone https://github.com/KaurSimar18/COSC3506.git
+cd COSC3506
 ```
 
 ### 2. Build the Project
